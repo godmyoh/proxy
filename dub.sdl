@@ -1,0 +1,5 @@
+name "proxy"
+description "A simple application to show the proxy settings."
+authors "godmyoh"
+license "public domain"
+libs "winhttp"
