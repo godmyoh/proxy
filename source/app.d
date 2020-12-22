@@ -2,7 +2,7 @@ module app;
 
 import core.sys.windows.windows;
 import core.sys.windows.winhttp;
-import core.sys.windows.wininet; // locally modified
+import core.sys.windows.wininet;
 
 import std.array;
 import std.conv;
